@@ -1,7 +1,8 @@
 import React from 'react'
 
-export default function Attendence() {
+export const Attendence = () => {
   return (
-    <div><h2>hello</h2></div>
+    <div>
+    </div>
   )
 }

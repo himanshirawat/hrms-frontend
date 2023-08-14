@@ -1,9 +1,8 @@
 import React from "react";
-import {Sidebar, Navbar, Jumbotron} from "./component"
-import { Route,BrowserRouter as Router, Routes } from "react-router-dom";
-import Dashboard from "./pages/Dashboard";
-import Attendence from "./pages/Attendence";
-const App = () => {
+import {Sidebar, Navbar, MainComponent} from "./component"
+import {BrowserRouter as Router} from "react-router-dom";
+
+export const App = () => {
 
   return (
     <Router>
@@ -11,17 +10,12 @@ const App = () => {
         <Sidebar />
         <div className="h-screen flex-1">
           <Navbar />
-          <Jumbotron />
-          <main> 
-            <Routes>
-              <Route path='/' Component={Dashboard}/>
-              <Route path="/attendence" Component={Attendence} />
-            </Routes>
-          </main>
+          <MainComponent />
         </div>
     </div>
     </Router>
     
   );
 };
+
 export default App;
