@@ -1,4 +1,5 @@
 import React from 'react'
+import { ProfileCard } from '../component/ProfileCard'
 
 export const Employees =()=> {
   return (
@@ -19,6 +20,46 @@ export const Employees =()=> {
           <button className="bg-green-500 text-white px-4 py-2 rounded-md"><i class="fa-solid fa-list"></i></button>
         </div>
       </div>
+
+      <div className='bg-gray-300 shadow-md rounded-lg grid grid-cols-3 m-8 p-4 gap-3' >
+      <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+        <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+        <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+        <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+        <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+        <ProfileCard
+          profilePicture="../src/assets/Ellipse 14.png"
+          name="John Doe"
+          position="Software Engineer"
+          profileLink="link-to-profile"
+        />
+      </div>
+      
     </div>
   </div>
   )
