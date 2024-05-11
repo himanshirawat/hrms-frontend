@@ -1,0 +1,44 @@
+{
+    "office": "Acme Corporation",
+    "location": "New York",
+    "department": "Engineering",
+    "manager": "John Smith",
+    "attendance": [
+      {
+        "employee_id": "001",
+        "name": " shivam panwar",
+        "date": "2024-01-13",
+        "status": "present"
+      },
+      {
+        "employee_id": "002",
+        "name": "Bob Williams",
+        "date": "2024-05-13",
+        "status": "present"
+      },
+      {
+        "employee_id": "003",
+        "name": "Charlie Brown",
+        "date": "2024-05-13",
+        "status": "absent"
+      },
+      {
+        "employee_id": "001",
+        "name": "Alice Johnson",
+        "date": "2024-05-14",
+        "status": "absent"
+      },
+      {
+        "employee_id": "002",
+        "name": "Bob Williams",
+        "date": "2024-05-14",
+        "status": "present"
+      },
+      {
+        "employee_id": "003",
+        "name": "Charlie Brown",
+        "date": "2024-05-14",
+        "status": "present"
+      }
+    ]
+  }

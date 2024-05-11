@@ -1,0 +1,1323 @@
+[
+  {
+    "employeeId": "001",
+    "name": "shivam panwar ",
+    "designation": "Software Engineer",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  },
+  {
+    "employeeId": "002",
+    "name": "Shivang Sir  ",
+    "designation": "Team Lead",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  },
+  {
+    "employeeId": "003",
+    "name": "viraj pant ",
+    "designation": "Software Engineer",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  },
+  {
+    "employeeId": "004",
+    "name": "Himanshi ji ",
+    "designation": "Full Stack developer",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  },
+  {
+    "employeeId": "005",
+    "name": "shanco  ",
+    "designation": "Intern",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  },
+  {
+    "employeeId": "006",
+    "name": "Badoni Sir ",
+    "designation": "Master of IT ",
+    "phone": "123-456-7890",
+    "email": "vhyivyh@gmail.com",
+    "joiningdate": "2023-02-11",
+    "attendance": [
+      {
+        "date": "2024-05-01",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-02",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-03",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-04",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-05",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-06",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-07",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-08",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-09",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-10",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-11",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-12",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-13",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-14",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-15",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-16",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-17",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-18",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-19",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-20",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-21",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-22",
+        "present": false,
+        "leaveType": "Paid Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-23",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-24",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-25",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-26",
+        "present": false,
+        "leaveType": "Earned Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-27",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-28",
+        "present": true,
+        "leaveType": "None",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-29",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      },
+      {
+        "date": "2024-05-30",
+        "present": false,
+        "leaveType": "Casual Leave",
+        "clockIn": " 09:00:00",
+        "clockOut": " 17:30:00"
+      }
+    ]
+  }
+
+]

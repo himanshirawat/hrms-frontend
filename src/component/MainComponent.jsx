@@ -2,6 +2,7 @@ import React from "react";
 import { Route, Routes, useLocation } from "react-router-dom";
 import {Dashboard,Attendence,Employees,Leaveboard, Payroll,Taskboard,} from "../pages";
 import { Jumbotron } from "./Jumbotron";
+import Employedata from "../pages/Employedata";
 
 export const MainComponent = () => {
   const location = useLocation();
@@ -26,6 +27,9 @@ export const MainComponent = () => {
     case "/taskboard":
       heading = "Taskboard";
       break;
+    case "/employdata":
+      heading = "Employee Data";
+      break;
     default:
       heading = "Setting";
   }
@@ -42,6 +46,7 @@ export const MainComponent = () => {
         <Route path="/leaveboard" Component={Leaveboard} />
         <Route path="/payroll" Component={Payroll} />
         <Route path="/taskboard" Component={Taskboard} />
+        <Route path="/employees/:id" Component={Employedata} />
       </Routes>
     </main>
   );
