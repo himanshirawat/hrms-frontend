@@ -10,7 +10,10 @@ export const App = () => {
         <Sidebar />
         <div className="h-screen flex-1">
           <Navbar />
+          <div className="overflow-y-scroll h-screen">
+
           <MainComponent />
+          </div>
         </div>
     </div>
     </Router>

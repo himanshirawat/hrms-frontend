@@ -18,25 +18,63 @@ export const Attendence = () => {
   // });
 
   const [attendanceData] = useState([
-    {
-      name: 'test 1',
-      clockIn: '2023-08-15 09:00:00',
-      clockOut: '2023-08-15 17:30:00',
-      status: 'Present',
-    },
-    {
-      name: 'test2',
-      clockIn: '2023-08-15 09:00:00',
-      clockOut: '2023-08-15 17:30:00',
-      status: 'Present',
-    },
-    {
-      name: 'test 3',
-      clockIn: '2023-08-15 09:00:00',
-      clockOut: '2023-08-15 17:30:00',
-      status: 'Present',
-    },
-  ]);
+      {
+        name: 'john.doe',
+        email: 'john.doe@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'Present',
+        employeeId: 'JD001'
+      },
+      {
+        name: 'jane.smith',
+        email: 'jane.smith@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'Present',
+        employeeId: 'JS002'
+      },
+      {
+        name: 'david.jones',
+        email: 'david.jones@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'Present',
+        employeeId: 'DJ003'
+      },
+      {
+        name: 'jane.smith',
+        email: 'jane.smith@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'absent',
+        employeeId: 'JS002'
+      },
+      {
+        name: 'david.jones',
+        email: 'david.jones@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'Present',
+        employeeId: 'DJ003'
+      },
+      {
+        name: 'jane.smith',
+        email: 'jane.smith@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'absent',
+        employeeId: 'JS002'
+      },
+      {
+        name: 'david.jones',
+        email: 'david.jones@example.com',
+        clockIn: '2023-08-15 09:00:00',
+        clockOut: '2023-08-15 17:30:00',
+        status: 'Present',
+        employeeId: 'DJ003'
+      },
+    ]);
 
   const calculateTotalHours = (clockIn, clockOut) => {
     if (!clockIn || !clockOut) return '';
@@ -52,24 +90,28 @@ export const Attendence = () => {
     <div className="p-4">
       <h2 className="text-xl font-semibold mb-4">Attendance</h2>
 
-      <table className="w-full">
+      <table className="w-full ">
         <thead>
           <tr>
-            <th className="py-2">Name</th>
-            <th className="py-2">Clock In</th>
-            <th className="py-2">Clock Out</th>
-            <th className="py-2">Total Hours</th>
-            <th className="py-2">Status</th>
+          <th className="py-2 text-center">Employee ID</th>
+            <th className="py-2 text-center">Name</th>
+            <th className="py-2 text-center">Email</th>
+            <th className="py-2 text-center">Clock In</th>
+            <th className="py-2 text-center">Clock Out</th>
+            <th className="py-2 text-center">Total Hours</th>
+            <th className="py-2 text-center">Status</th>
           </tr>
         </thead>
         <tbody>
           {attendanceData.map((entry, index) => (
             <tr key={index}>
-              <td className="py-2">{entry.name}</td>
-              <td className="py-2">{entry.clockIn}</td>
-              <td className="py-2">{entry.clockOut}</td>
-              <td className="py-2">{calculateTotalHours(entry.clockIn, entry.clockOut)}</td>
-              <td className="py-2">{entry.status}</td>
+              <td className="py-2 text-center">{entry.employeeId}</td>
+              <td className="py-2 text-center">{entry.name}</td>
+              <td className="py-2 text-center">{entry.email}</td>
+              <td className="py-2 text-center">{entry.clockIn}</td>
+              <td className="py-2 text-center">{entry.clockOut}</td>
+              <td className="py-2 text-center">{calculateTotalHours(entry.clockIn, entry.clockOut)}</td>
+              <td className="py-2 text-center">{entry.status}</td>
             </tr>
           ))}
         </tbody>
