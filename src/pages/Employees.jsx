@@ -39,7 +39,7 @@ export const Employees = () => {
           return(
             <ProfileCard
               key={index}
-              profilePicture="../src/assets/Ellipse 14.png"
+              profilePicture="../assets/Ellipse 14.png"
               employee={entry}
             />
           )})}

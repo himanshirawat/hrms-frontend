@@ -8,7 +8,7 @@ export const Navbar= () => {
           <i class="fa-regular fa-bell mr-8"></i>
         </div>
         <div className= "font-semibold">John Doe</div>
-        <img src="./src/assets/Ellipse 14.png" alt="Profile" className="w-12 h-12 rounded-full"/>
+        <img src="./assets/Ellipse 14.png" alt="Profile" className="w-12 h-12 rounded-full"/>
       </div>
     </nav>
   )
