@@ -7,7 +7,7 @@ export const Sidebar = () => {
   const Menus = [
     { title: "Dashboard", src: "Chart_fill" },
     { title: "Employees", src: "User" },
-    { title: "Attendence", src: "Calendar" },
+    { title: "Attendance", src: "Calendar" },
   ];
 
   const handleMenuClick = (index) => {

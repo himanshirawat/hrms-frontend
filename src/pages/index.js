@@ -1,5 +1,5 @@
 export {Dashboard} from "./Dashboard";
-export {Attendence} from "./Attendence";
+export {Attendance} from "./Attendance";
 export {Employees} from "./Employees";
 export {Leaveboard} from "./Leaveboard";
 export {Payroll} from "./Payroll";

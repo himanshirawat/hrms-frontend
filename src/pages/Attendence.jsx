@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-export const Attendence = () => {
+export const Attendance = () => {
 
   // const [attendanceData, setAttendanceData] = useState([]);
   // const [searchDate, setSearchDate] = useState('');
