@@ -19,14 +19,14 @@ export const Sidebar = () => {
       className={` ${open ? "w-72" : "w-20 "} bg-dark-purple h-screen p-5  pt-8 relative duration-300`}
     >
       <img
-        src="./src/assets/control.png"
+        src="./assets/control.png"
         className={`absolute cursor-pointer -right-3 top-9 w-7 border-dark-purple
            border-2 rounded-full  ${!open && "rotate-180"}`}
         onClick={() => setOpen(!open)}
       />
       <div className="flex gap-x-4 items-center">
         <img
-          src="./src/assets/logo.png"
+          src="./assets/logo.png"
           className={`cursor-pointer duration-500 ${
             open && "rotate-[360deg]"
           }`}
@@ -42,7 +42,7 @@ export const Sidebar = () => {
 
       <div className="flex items-center mb-4 mt-4">
         <img
-          src="./src/assets/Ellipse 14.png"
+          src="./assets/Ellipse 14.png"
           alt="Profile"
           className="w-16 h-16 rounded-xl mr-4"
         />
@@ -63,7 +63,7 @@ export const Sidebar = () => {
             onClick={() => handleMenuClick(index)}
           >
             <Link to={`/${Menu.title.toLowerCase()}`} className="flex w-full">
-              <img src={`./src/assets/${Menu.src}.png`} />
+              <img src={`./assets/${Menu.src}.png`} />
               {open && (
                 <span className="ml-2">
                   {Menu.title}

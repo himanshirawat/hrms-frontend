@@ -46,22 +46,22 @@ export const Leaveboard = () => {
         <TitleCard
           title="HR/Admin"
           content="23"
-          photo={<img src="../src/assets/Ellipse 14.png" alt="profile"></img>}
+          photo={<img src="./assets/Ellipse 14.png" alt="profile"></img>}
         />
         <TitleCard
           title="Operation"
           content="13"
-          photo={<img src="../src/assets/Ellipse 14.png" alt="profile"></img>}
+          photo={<img src="./assets/Ellipse 14.png" alt="profile"></img>}
         />
         <TitleCard
           title="Product"
           content="10"
-          photo={<img src="../src/assets/Ellipse 14.png" alt="profile"></img>}
+          photo={<img src="./assets/Ellipse 14.png" alt="profile"></img>}
         />
         <TitleCard
           title="Marketing"
           content="10"
-          photo={<img src="../src/assets/Ellipse 14.png" alt="profile"></img>}
+          photo={<img src="./assets/Ellipse 14.png" alt="profile"></img>}
         />
       </div>
 
